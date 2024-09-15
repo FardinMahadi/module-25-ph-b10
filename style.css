@@ -1,3 +1,8 @@
-h1 {
+h1,
+li {
   color: lightcoral;
+}
+
+#fruits-title {
+  color: black;
 }
